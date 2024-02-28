@@ -1,0 +1,15 @@
+p {
+    a{
+        font-family: 'Times New Roman', Times, serif;
+        color: purple;
+        font-size: 30px;
+        text-decoration: none;
+    }
+}
+
+.classdiv{
+   background-color: white;
+    &-class1{
+        font-family: 'Times New Roman', Times, serif;
+    }
+}

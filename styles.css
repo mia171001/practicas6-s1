@@ -1,0 +1,31 @@
+p a {
+  font-family: "Times New Roman", Times, serif;
+  color: purple;
+  font-size: 30px;
+  text-decoration: none;
+}
+
+.classdiv {
+  background-color: white;
+}
+.classdiv-class1 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: hotpink;
+}
+
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  color: black;
+  text-align: center;
+}/*# sourceMappingURL=styles.css.map */

@@ -1,0 +1,23 @@
+@import '_otros.scss';
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+body {
+    background-color: hotpink;
+}
+
+//Creando variable
+$first-color: black;
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: $first-color;
+    text-align: center;
+}
